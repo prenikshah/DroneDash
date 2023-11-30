@@ -1,0 +1,159 @@
+{
+    "beats": [
+        {
+            "beatSecond": 6.5,
+            "layerIndex": 1,
+            "objectIndex": 0
+        },
+        {
+            "beatSecond": 7.25,
+            "layerIndex": 0,
+            "objectIndex": 1
+        },
+        {
+            "beatSecond": 7.5,
+            "layerIndex": 0,
+            "objectIndex": 2
+        },
+        {
+            "beatSecond": 7.90,
+            "layerIndex": 1,
+            "objectIndex": 2
+        },
+        {
+            "beatSecond": 8,
+            "layerIndex": 2,
+            "objectIndex": 1
+        },
+        {
+            "beatSecond": 11.5,
+            "layerIndex": 1,
+            "objectIndex": 0
+        },
+        {
+            "beatSecond": 12,
+            "layerIndex": 1,
+            "objectIndex": 0
+        },
+        {
+            "beatSecond": 13,
+            "layerIndex": 0,
+            "objectIndex": 1
+        },
+        {
+            "beatSecond": 13.5,
+            "layerIndex": 0,
+            "objectIndex": 2
+        },
+        {
+            "beatSecond": 14,
+            "layerIndex": 1,
+            "objectIndex": 1
+        },
+        {
+            "beatSecond": 15,
+            "layerIndex": 1,
+            "objectIndex": 1
+        },
+        {
+            "beatSecond": 15.5,
+            "layerIndex": 0,
+            "objectIndex": 0
+        },
+        {
+            "beatSecond": 16,
+            "layerIndex": 1,
+            "objectIndex": 1
+        },
+        {
+            "beatSecond": 16.5,
+            "layerIndex": 2,
+            "objectIndex": 1
+        },
+        {
+            "beatSecond": 17,
+            "layerIndex": 2,
+            "objectIndex": 0
+        },
+        {
+            "beatSecond": 18,
+            "layerIndex": 2,
+            "objectIndex": 1
+        },
+        {
+            "beatSecond": 18.75,
+            "layerIndex": 1,
+            "objectIndex": 0
+        },
+        {
+            "beatSecond": 19,
+            "layerIndex": 1,
+            "objectIndex": 2
+        },
+        {
+            "beatSecond": 19.5,
+            "layerIndex": 2,
+            "objectIndex": 2
+        },
+        {
+            "beatSecond": 20,
+            "layerIndex": 1,
+            "objectIndex": 1
+        },
+        {
+            "beatSecond": 20.5,
+            "layerIndex": 0,
+            "objectIndex": 1
+        },
+        {
+            "beatSecond": 21,
+            "layerIndex": 1,
+            "objectIndex": 1
+        },
+        {
+            "beatSecond": 21.75,
+            "layerIndex": 0,
+            "objectIndex": 0
+        },
+        {
+            "beatSecond": 22,
+            "layerIndex": 0,
+            "objectIndex": 1
+        },
+        {
+            "beatSecond": 23,
+            "layerIndex": 1,
+            "objectIndex": 0
+        },
+        {
+            "beatSecond": 23.25,
+            "layerIndex": 2,
+            "objectIndex": 0
+        },
+        {
+            "beatSecond": 24,
+            "layerIndex": 1,
+            "objectIndex": 1
+        },
+        {
+            "beatSecond": 24.5,
+            "layerIndex": 1,
+            "objectIndex": 0
+        },
+        {
+            "beatSecond": 25,
+            "layerIndex": 2,
+            "objectIndex": 0
+        },
+        {
+            "beatSecond": 25.75,
+            "layerIndex": 2,
+            "objectIndex": 1
+        },
+        {
+            "beatSecond": 26,
+            "layerIndex": 1,
+            "objectIndex": 2
+        }
+    ]
+}
